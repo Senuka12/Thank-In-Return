@@ -1,0 +1,12 @@
+{
+    "launchData": {
+        "properties": {
+            "headerTitle": "Thank In Return",
+            "mainText": "Welcome to Thank In Return",
+            "hintString": "For Help Say, \"Alexa, Help\"",
+            "logoImage": "https://upliftefficiency.somizu.tech/other/alexaicon2.webp",
+            "backgroundImage": "https://upliftefficiency.somizu.tech/other/bg.webp",
+            "backgroundOpacity": "0.8"
+        }
+    }
+}
